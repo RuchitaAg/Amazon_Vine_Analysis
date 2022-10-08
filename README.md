@@ -21,7 +21,7 @@ Using these outcomes, we can give statistics about how much bias is there in the
 Paid reviews:
 ![paid_review_statistic](images/paid.png)
 
-Unaid reviews:
+Unpaid reviews:
 ![unpaid_review_statistic](images/unpaid.png)
 
 - There are 613 paid reviews and 64968 unpaid reviews
